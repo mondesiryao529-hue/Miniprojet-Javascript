@@ -1,0 +1,1 @@
+Ce fichier readme.md est réalisé dans l'optique d'avoir une vue globale de mon mini-projet 
